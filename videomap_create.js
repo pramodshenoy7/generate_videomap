@@ -4,9 +4,9 @@ const convert = require('xml-js');
 const fs = require('fs/promises');
 var libxmljs = require("libxmljs");
 
-const CLD_MOBILE_VIDEO_PRESET="Mobile_Autox360p_800k";
-const CLD_VIDEO_FOLDER="PDPVideo";
-const CLD_SITEMAP_FOLDER="sitemap";
+const CLD_MOBILE_VIDEO_PRESET="";
+const CLD_VIDEO_FOLDER="";
+const CLD_SITEMAP_FOLDER="";
 
 videomap_create();
 
